@@ -1,2 +1,2 @@
-# OMM
+# OMM_repo
 OMM student project
